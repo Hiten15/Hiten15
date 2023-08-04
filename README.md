@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi, I am Hiten, a pre-final year Computer Engineering student <br>at Thapar Institute of Engineering & Technology, Patiala. <br>I have a keen interest in DSA and Machine Learning.
+Hi, I am Hiten, a Final year Computer Engineering student <br>at Thapar Institute of Engineering & Technology, Patiala. <br>I have a keen interest in DSA and Machine Learning.
 
 
 ## 🌐 Socials:
